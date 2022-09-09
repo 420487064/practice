@@ -1,5 +1,5 @@
 # vue2xx
-
+尝试
 ## Project setup
 ```
 npm install

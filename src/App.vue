@@ -8,13 +8,7 @@
 <script>
 import HelloWorld from './components/HelloWorld.vue'
 
-export default {
-  name: 'App',
-  components: {
-    HelloWorld
-  }
-}
-</script>
+11
 
 <style>
 #app {
